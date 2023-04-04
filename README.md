@@ -24,7 +24,7 @@ I'm a Full Stack Web Developer with a background in Digital Media and extensive 
 
 
 
-Tech Stack:  Next.js, JavaScript / Typescript, Python, PostgeSQL, along with database migrations and REST API development
+Tech Stack:  Next.js, JavaScript / Typescript, Python, PostgeSQL, along with database migrations and REST API development, Figma, SCSS, Blender
 
 
 
