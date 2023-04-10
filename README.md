@@ -20,7 +20,7 @@ I'm a Full Stack Web Developer with a background in Digital Media and extensive 
 
 - 👨🏻‍💻 Web Developer / Digital Craftsman
 - 🎓 UpLeveled Bootcamp Graduate
-- 🔭 I’m currently working on : Youtube-Transport-Summarizer 
+- 🔭 I’m currently working on : Youtube-Transcript-Summarizer 
 
 
 
