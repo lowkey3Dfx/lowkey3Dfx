@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ The more I want to get something done, the less I call it work. ✨
+
 
 I'm a Full Stack Web Developer with a background in Digital Media and extensive experience in customer service.
 
