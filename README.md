@@ -25,8 +25,8 @@ I'm a Full Stack Web Developer with a background in Digital Media and extensive 
 
 Tech Stack: 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,nextjs,react,js,nodejs,,ts,py,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,nextjs,react,js,ts,py,html,css)](https://skillicons.dev)
 </br>
-[![My Skills](https://skillicons.dev/icons?i=postgres,blender,sass,emotion,figma,postman,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,blender,figma,sass,emotion,postman,docker)](https://skillicons.dev)
 
 📫 Reach me on <a href="https://www.linkedin.com/in/arif-kesdiren/">LinkedIn</a>
