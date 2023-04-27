@@ -1,5 +1,5 @@
 <p align="center">
-Hi there, I'm Arif 👋🏼
+  Hi there, I'm Arif 👋🏼
 </br>
 </br>
 I'm a Full Stack Web Developer with a background in Digital Media and extensive experience in customer service.
