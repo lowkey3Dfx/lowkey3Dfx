@@ -9,12 +9,10 @@ I'm a Full Stack Web Developer with a background in Digital Media and extensive 
 </br>
 🎓 UpLeveled Bootcamp Graduate
 </br>
-🔭 I’m currently working on : Youtube-Transcript-Summarizer
+🔭 I’m currently working on : <a href="https://youtube-transcript-summarizer.fly.dev/">Youtube-Transcript-Summarizer</a>
 </br>
 </br>
 Tech Stack: 
-</br>
-</br>
 </p>
 
 <p align="center">
@@ -26,6 +24,8 @@ Tech Stack:
 </p>
 
 <p align="center">
+  </br>
+</br>
 📫 Reach me on <a href="https://www.linkedin.com/in/arif-kesdiren/">LinkedIn</a>
 </p>
 
