@@ -23,10 +23,10 @@ I'm a Full Stack Web Developer with a background in Digital Media and extensive 
 - 🔭 I’m currently working on : Youtube-Transcript-Summarizer 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vscode,nextjs,react,nodejs,html,css,py,postgres,sass,blender,jest,figma,postman,docker)](https://skillicons.dev)
+Tech Stack: 
 
-Tech Stack:  Next.js, JavaScript / Typescript, Python, PostgeSQL, along with database migrations and REST API development, Figma, SCSS, Blender
+[![My Skills](https://skillicons.dev/icons?i=vscode,nextjs,react,js,nodejs,,ts,py,html,css)](https://skillicons.dev)
+</br>
+[![My Skills](https://skillicons.dev/icons?i=postgres,blender,sass,emotion,figma,postman,docker)](https://skillicons.dev)
 
-
-
-📫 Reach me on  LinkedIn 
+📫 Reach me on <a href="https://www.linkedin.com/in/arif-kesdiren/">LinkedIn</a>
