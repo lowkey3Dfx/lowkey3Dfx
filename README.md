@@ -23,6 +23,7 @@ I'm a Full Stack Web Developer with a background in Digital Media and extensive 
 - 🔭 I’m currently working on : Youtube-Transcript-Summarizer 
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Tech Stack:  Next.js, JavaScript / Typescript, Python, PostgeSQL, along with database migrations and REST API development, Figma, SCSS, Blender
 
